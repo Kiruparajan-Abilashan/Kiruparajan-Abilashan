@@ -10,12 +10,12 @@
 
 ### 🚀 About Me
 
-Second-year Bachelor of Information Technology undergraduate at the University of Moratuwa with hands-on experience building full-stack web applications, desktop software, and visual designs. Passionate about software architecture, REST APIs, and modern web engineering.
+Second-year Bachelor of Information Technology undergraduate at the University of Moratuwa with hands-on experience building full-stack applications, desktop software, and visual designs[cite: 1]. Passionate about software architecture, REST APIs, and modern web engineering[cite: 1].
 
-- 🎓 **Education:** BIT (External) – University of Moratuwa
-- 📍 **Location:** Batticaloa, Sri Lanka
-- 🎯 **Current Focus:** Full Stack Development & Software Internships
-- 💼 **Experience:** Graphic Designer (Hybrid)
+- 🎓 **Education:** BIT (External) – University of Moratuwa[cite: 1]
+- 📍 **Location:** Batticaloa, Sri Lanka[cite: 1]
+- 🎯 **Current Focus:** Full Stack Development & Software Internships[cite: 1]
+- 💼 **Experience:** Graphic Designer (Hybrid)[cite: 1]
 
 ---
 
@@ -50,13 +50,12 @@ Second-year Bachelor of Information Technology undergraduate at the University o
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Mini Market Management System** | C#, Windows Forms, SQL Server | Desktop software featuring product, category, inventory, and sales management with full relational database CRUD operations. |
-| **Sunrise Hotel Website** | HTML5, CSS3, JavaScript | Responsive multi-page hotel application featuring clean UI navigation and structured layouts. |
+| **Mini Market Management System** | C#, Windows Forms, SQL Server | Desktop software featuring product, category, inventory, and sales management with full relational database CRUD operations[cite: 1]. |
 
 ---
 
 ### 🌐 Languages
 
-- **Tamil:** Native
-- **English:** Professional Working Proficiency
-- **Sinhala:** Basic Conversational
+- **Tamil:** Native[cite: 1]
+- **English:** Professional Working Proficiency[cite: 1]
+- **Sinhala:** Basic Conversational[cite: 1]
