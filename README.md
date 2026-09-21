@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kiruparajan Abilashan
 
-**BIT Undergraduate @ University of Moratuwa** | **Aspiring Full Stack Software Engineer**
+**BIT Undergraduate @ University of Moratuwa** | **Aspiring Full Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abilashanki@gmail.com)
