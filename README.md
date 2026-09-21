@@ -23,11 +23,11 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Mini Market Management System** | C# Windows Forms, SQL Server | Built a desktop application for product, category, seller, inventory, billing, and sales management with full database CRUD integration.[cite: 1] |
+| **Mini Market Management System** | C# Windows Forms, SQL Server | Built a desktop application for product, category, seller, inventory, billing, and sales management with full database CRUD integration. |
 
 ---
 
 ### 🌐 Languages
 - **Tamil:** Native[cite: 1]
-- **English:** Professional Working Proficiency[cite: 1]
-- **Sinhala:** Basic Conversational Proficiency[cite: 1]
+- **English:** Professional Working Proficiency
+- **Sinhala:** Basic Conversational Proficiency
